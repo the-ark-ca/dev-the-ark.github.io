@@ -4,3 +4,6 @@
 [submodule "assets/js/videojs-record"]
 	path = assets/js/videojs-record
 	url = https://github.com/the-ark-ca/videojs-record.git
+[submodule "assets/js/isomorphic-git"]
+	path = assets/js/isomorphic-git
+	url = https://github.com/the-ark-ca/isomorphic-git.git
