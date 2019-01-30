@@ -1,3 +1,6 @@
 [submodule "assets/js/face-api.js"]
 	path = assets/js/face-api.js
 	url = https://github.com/the-ark-ca/face-api.js.git
+[submodule "assets/js/videojs-record"]
+	path = assets/js/videojs-record
+	url = https://github.com/the-ark-ca/videojs-record.git
