@@ -1,9 +1,9 @@
-[submodule "assets/js/face-api.js"]
-	path = assets/js/face-api.js
+[submodule "assets/js/projects/face-api.js"]
+	path = assets/js/projects/face-api.js
 	url = https://github.com/the-ark-ca/face-api.js.git
-[submodule "assets/js/videojs-record"]
-	path = assets/js/videojs-record
+[submodule "assets/js/projects/videojs-record"]
+	path = assets/js/projects/videojs-record
 	url = https://github.com/the-ark-ca/videojs-record.git
-[submodule "assets/js/isomorphic-git"]
-	path = assets/js/isomorphic-git
+[submodule "assets/js/projects/isomorphic-git"]
+	path = assets/js/projects/isomorphic-git
 	url = https://github.com/the-ark-ca/isomorphic-git.git
